@@ -4,6 +4,6 @@ sites et de codes. Mon engagement dans ces réalisations reflète mon désir con
   Languages and Tools :
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,docker,css,htm,php,laravel,javascript,reactjs,laravel" />
+      <img src="https://skillicons.dev/icons?i=git,docker,css,html,php,laravel,javascript,reactjs," />
     </a>
   </p>
