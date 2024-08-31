@@ -6,3 +6,7 @@ Avec plus de 7 années de passion pour la programmation et l'informatique, aussi
       <img src="https://skillicons.dev/icons?i=git,docker,css,html,php,laravel,javascript,react,tailwind,wordpress,python" />
     </a>
   </p>
+
+  Stats :
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sc0rpi0V&layout=compact)](https://github.com/Sc0rpi0V/github-readme-stats)
